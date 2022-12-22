@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @amnesytoolkit
 - 👀 I’m interested in programming, AI and Cybersecurity
 - 🌱 I’m currently learning AI :)
-- 📫 You can reach me at my email address: kabirpaolo@gmail.com
+- 📫 You can reach me at my email address: amnesy@mintly.it
